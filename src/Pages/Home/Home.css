@@ -1,0 +1,15 @@
+.home-title {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.home-description {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.home-button-get-started{
+    display: flex;
+    justify-content: center;
+    margin: 5rem auto;
+}
